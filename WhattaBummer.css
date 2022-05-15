@@ -1,0 +1,107 @@
+h1 {
+    text-align: center;
+    font-family: cursive;
+    font-size: xx-large;
+    background-color: #b7b7a4;
+
+
+}
+
+
+#content {
+    text-align: center;
+}
+
+body {
+    background-color: ghostwhite;
+
+
+}
+
+div {
+    display: inline-block;
+}
+
+
+#Podcasts {
+    color: black;
+    border-width: 1px;
+    border-color: black;
+    border-style: dashed;
+
+    background-color: #b7b7a4;
+    align-content: center;
+    align-items: center;
+    padding: 30px;
+    margin-left: 20px;
+    width: 27%;
+    margin: 1%;
+}
+
+
+#Atomichabits {
+    height: 10cm;
+    width: 5cm;
+}
+
+#Atomic {
+    color: black;
+    border-width: 1px;
+    border-color: black;
+    border-style: dashed;
+    width: 27%;
+    margin: 1%;
+
+    background-color: #b7b7a4;
+    text-align: justify;
+
+}
+
+#ImBored {
+    color: black;
+    border-width: 1px;
+    border-color: black;
+    border-style: dashed;
+    width: 27%;
+    background-color: #b7b7a4;
+    text-align: justify;
+    margin: 1%;
+
+}
+
+#Books {
+    color: black;
+    border-width: 1px;
+    border-color: black;
+    border-style: dashed;
+    width: 27%;
+    background-color: #b7b7a4;
+    text-align: justify;
+    margin: 1%;
+
+}
+
+#Movies {
+    color: black;
+    border-width: 1px;
+    border-color: black;
+    border-style: dashed;
+    width: 27%;
+    background-color: #b7b7a4;
+    text-align: justify;
+    margin: 1%;
+
+
+}
+
+#Series {
+    color: black;
+    border-width: 1px;
+    border-color: black;
+    border-style: dashed;
+    width: 27%;
+    background-color: #b7b7a4;
+    text-align: justify;
+    margin: 1%;
+
+}
