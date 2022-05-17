@@ -12,6 +12,27 @@ h1 {
     text-align: center;
 }
 
+#Analysis {
+    color: black;
+    border-width: 1px;
+    border-color: black;
+    border-style: dashed;
+
+    background-color: #b7b7a4;
+
+    text-align: center;
+
+    width: 45%;
+    margin: 2%;
+
+}
+
+#AnalysisImg {
+    width: 100%;
+    height: 100%;
+
+}
+
 body {
     background-color: ghostwhite;
 
@@ -20,6 +41,7 @@ body {
 
 div {
     display: inline-block;
+    background-color: #b7b7a4;
 }
 
 
@@ -28,20 +50,23 @@ div {
     border-width: 1px;
     border-color: black;
     border-style: dashed;
-
-    background-color: #b7b7a4;
     align-content: center;
-    align-items: center;
-    padding: 30px;
-    margin-left: 20px;
-    width: 27%;
-    margin: 1%;
+    background-color: #b7b7a4;
+    text-align: center;
+
+
+
+
+
+    width: 45%;
+    margin: 2%;
+
 }
 
 
 #Atomichabits {
-    height: 10cm;
-    width: 5cm;
+    height: 70%;
+    width: 50%;
 }
 
 #Atomic {
@@ -49,11 +74,12 @@ div {
     border-width: 1px;
     border-color: black;
     border-style: dashed;
-    width: 27%;
-    margin: 1%;
+    width: 45%;
+    margin: 2%;
+
 
     background-color: #b7b7a4;
-    text-align: justify;
+    text-align: center;
 
 }
 
@@ -62,11 +88,18 @@ div {
     border-width: 1px;
     border-color: black;
     border-style: dashed;
-    width: 27%;
-    background-color: #b7b7a4;
-    text-align: justify;
-    margin: 1%;
 
+    background-color: #b7b7a4;
+    text-align: center;
+    width: 45%;
+    margin: 2%;
+
+
+}
+
+#ImBoredImg {
+    height: 50%;
+    width: 50%;
 }
 
 #Books {
@@ -74,11 +107,18 @@ div {
     border-width: 1px;
     border-color: black;
     border-style: dashed;
-    width: 27%;
-    background-color: #b7b7a4;
-    text-align: justify;
-    margin: 1%;
 
+    background-color: #b7b7a4;
+    text-align: center;
+    width: 45%;
+    margin: 2%;
+
+
+}
+
+#BooksImg {
+    height: 73%;
+    width: 45%;
 }
 
 #Movies {
@@ -86,12 +126,19 @@ div {
     border-width: 1px;
     border-color: black;
     border-style: dashed;
-    width: 27%;
+
     background-color: #b7b7a4;
-    text-align: justify;
-    margin: 1%;
+    text-align: center;
+    width: 45%;
+    margin: 2%;
 
 
+
+}
+
+#MoviesImg {
+    height: 80%;
+    width: 55%;
 }
 
 #Series {
@@ -99,9 +146,16 @@ div {
     border-width: 1px;
     border-color: black;
     border-style: dashed;
-    width: 27%;
-    background-color: #b7b7a4;
-    text-align: justify;
-    margin: 1%;
 
+    background-color: #b7b7a4;
+    text-align: center;
+    width: 45%;
+    margin: 2%;
+
+
+}
+
+#SeriesImg {
+    height: 70%;
+    width: 50%;
 }
